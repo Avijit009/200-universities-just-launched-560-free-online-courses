@@ -49,3 +49,17 @@ If you haven’t heard, universities around the world offering their courses onl
 * [Digital Accessibility as a Business Practice](https://www.canvas.net/browse/ryersonu/courses/digital-accessibility) from Ryerson University
 * [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) from Sberbank Corporate University
 * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) from deeplearning.ai
+
+## MATHEMATICS.
+## PROGRAMMING
+## DATA SCIENCE
+## HUMANITIES
+## SOCIAL SCIENCES
+## EDUCATION & TEACHING
+## HEALTH & MEDICINE
+## ENGINEERING
+## ART & DESIGN
+## BUSINESS
+## PERSONAL DEVELOPMENT
+## SCIENCE
+
