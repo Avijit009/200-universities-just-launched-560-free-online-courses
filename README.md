@@ -3,3 +3,46 @@ If you haven’t heard, universities around the world offering their courses onl
 
 # COMPUTER SCIENCE
 * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) from deeplearning.ai (taught by Stanford Prof. Andrew Ng)
+* [Algorithms: Design and Analysis](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) from Stanford University (old Couresra course, but hosted without any paywalls directly by Stanford)
+*  [The Unix Workbench](https://www.coursera.org/learn/unix) from Johns Hopkins University
+*  [Machine Learning](https://www.edx.org/course/machine-learning-gtx-cs7641x) from Georgia Institute of Technology
+*  [Hacking and Patching](https://www.coursera.org/learn/hacking-patching) from University of Colorado System
+*  [Linux Server Management and Security](https://www.coursera.org/learn/linux-server-management-security) from University of Colorado System
+*  [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) from deeplearning.ai
+* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) from deeplearning.ai
+*  [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) from deeplearning.ai
+*  [Algorithms: Design and Analysis, Part 2](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) from Stanford University
+*  [Accessible Gamification for Business](https://www.edx.org/course/accessible-gamification-business-gtx-hdm1-1ax) from Georgia Institute of Technology
+*  [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business) from Yonsei University
+*  [Introduction to TCP/IP](https://www.coursera.org/learn/tcpip) from Yonsei University
+* [TV Whitespaces for Museums and Archives](https://www.canvas.net/browse/sjsu/courses/tv-whitespace) from San Jose State University
+*  
+*  
+*  
+*  
+*  
+* 
+*  
+*  
+*  
+*  
+*  
+* 
+*  
+*  
+*  
+*  
+*  
+* 
+*  
+*  
+*  
+*  
+*  
+* 
+*  
+*  
+*  
+*  
+*  
+* 
